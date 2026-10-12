@@ -32,8 +32,8 @@ JU SeqWorkbench는 Sanger/FASTA 기반 서열을 열고, 정렬된 NT/AA 서열�
 - Windows 실행 파일은 코드 서명되지 않았을 수 있으니 다운로드 출처와 SHA-256을 확인하세요.
 - 파일은 로컬에서 처리됩니다. 사용자가 별도로 외부에 업로드하거나 공유하는 경우는 제외합니다.
 
-### RC2 배포 파일 확인
-- Windows RC2 ZIP: `JU_SeqWorkbench_Alpha_0.1.0_a23a3c7_2026-10-09_RC2_Windows_x64.zip`
+### 공개 배포 파일 및 RC2 검증 정보
+- Windows RC2 ZIP: `JU_SeqWorkbench_Alpha_Windows_x64.zip`
 - ZIP SHA-256: `FE280649650F91F893682DF25D2AEFF666B966A7EDE0E90209058B5F8D16B289`
 - Build provenance: application source `a23a3c7`; packaging exclusion commit `5b67fd7`.
 - ZIP에는 `Qt6Pdf.dll` 및 `qpdf.dll`이 포함되지 않으며, 필수 제3자 라이선스 고지 파일은 포함됩니다.
@@ -72,8 +72,8 @@ JU SeqWorkbench is a Windows research desktop application for reviewing Sanger/F
 - The executable may be unsigned; verify the source and SHA-256 before running.
 - Data is processed locally unless you independently share or upload it elsewhere.
 
-### RC2 artifact integrity
-- ZIP: `JU_SeqWorkbench_Alpha_0.1.0_a23a3c7_2026-10-09_RC2_Windows_x64.zip`
+### Published artifact integrity (RC2-validated)
+- ZIP: `JU_SeqWorkbench_Alpha_Windows_x64.zip`
 - SHA-256: `FE280649650F91F893682DF25D2AEFF666B966A7EDE0E90209058B5F8D16B289`
 - The unused Qt PDF runtime components were removed; required third-party license notices remain bundled.
 
