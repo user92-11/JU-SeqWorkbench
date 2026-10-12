@@ -5,7 +5,7 @@ Sanger/FASTA → AB1 review → alignment → NT/AA editing → site/region anal
 
 [한국어](#한국어) · [English](#english) · [Release notes](./RELEASE_NOTES_v0.1.0-alpha.1.md) · [Project website](https://user92-11.github.io/JU-works/)
 
-> **Released / 배포 완료 (2026-10-12):** [Download JU SeqWorkbench Alpha 0.1.0 — Windows x64](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1) from **Assets**. The actual application ZIP is `JU_SeqWorkbench_Alpha_Windows_x64.zip`; do not select the automatically generated GitHub source archives.
+> **Released / 배포 완료 (2026-10-12):** [Download JU SeqWorkbench Alpha 0.1.0 — Windows x64](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1) from **Assets**. The actual application ZIP is `JU_SeqWorkbench_Alpha_0.1.0_Windows_x64.zip`; do not select the automatically generated GitHub source archives.
 
 ## English
 
