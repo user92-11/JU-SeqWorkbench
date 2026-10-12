@@ -1,7 +1,7 @@
 # JU SeqWorkbench Alpha 0.1.0 — Release Notes
 **Planned tag:** `v0.1.0-alpha.1` · **Platform:** Windows x64 · **Channel:** Pre-release (evaluation)
 
-> **Publication status:** The Windows package has been validated as an Alpha RC2 candidate. The GitHub Release and downloadable binary have **not yet been published**. This document prepares the first release.
+> **Download:** On [GitHub Releases](https://github.com/user92-11/JU-SeqWorkbench/releases), select the Windows x64 ZIP under **Assets** when the Alpha pre-release is published. If no Release is listed yet, the binary is not yet available.
 
 ## 한국어
 
