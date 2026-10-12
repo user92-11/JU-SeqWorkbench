@@ -1,7 +1,7 @@
 # JU SeqWorkbench Alpha 0.1.0 — Release Notes
 **Planned tag:** `v0.1.0-alpha.1` · **Platform:** Windows x64 · **Channel:** Pre-release (evaluation)
 
-> **Download:** On [GitHub Releases](https://github.com/user92-11/JU-SeqWorkbench/releases), select the Windows x64 ZIP under **Assets** when the Alpha pre-release is published. If no Release is listed yet, the binary is not yet available.
+> **Published / 배포 완료 (2026-10-12):** Download the Windows x64 program ZIP from the **Assets** section of [Alpha 0.1.0 Pre-release](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1). The automatically generated GitHub source archives contain documentation only, not the proprietary application.
 
 ## 한국어
 
@@ -18,7 +18,7 @@ JU SeqWorkbench는 Sanger/FASTA 기반 서열을 열고, 정렬된 NT/AA 서열�
 - 사용자가 별도 설치한 **MAFFT**를 이용한 외부 MSA 연동
 
 ### 설치 및 사용
-1. GitHub Release의 **Assets**에서 Windows x64 ZIP 파일을 받습니다. (게시 후 제공)
+1. [GitHub Alpha 0.1.0 Release](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1)의 **Assets**에서 Windows x64 ZIP 파일을 받습니다.
 2. ZIP 전체를 새 폴더에 압축 해제합니다. ZIP 내부에서 EXE를 직접 실행하지 마세요.
 3. 압축 해제한 폴더의 `JU SeqWorkbench Alpha.exe`를 실행합니다. Python 별도 설치는 필요하지 않습니다.
 4. 앱에 포함된 한국어/영어 사용자 가이드와 제3자 라이선스 고지를 확인하세요.
@@ -58,7 +58,7 @@ JU SeqWorkbench is a Windows research desktop application for reviewing Sanger/F
 - Optional external MSA through a separately installed **MAFFT**
 
 ### Installation
-1. After publication, download the Windows x64 ZIP from the GitHub Release **Assets**.
+1. Download the Windows x64 ZIP from the [Alpha 0.1.0 GitHub Release](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1) **Assets**.
 2. Extract the entire ZIP to a new folder (do not run directly inside the archive).
 3. Launch `JU SeqWorkbench Alpha.exe`. Python installation is not required.
 4. Read the included English/Korean guides and third-party notices.
