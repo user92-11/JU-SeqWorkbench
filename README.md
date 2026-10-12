@@ -5,7 +5,7 @@ Sanger/FASTA → AB1 review → alignment → NT/AA editing → site/region anal
 
 [한국어](#한국어) · [English](#english) · [Release notes](./RELEASE_NOTES_v0.1.0-alpha.1.md) · [Project website](https://user92-11.github.io/JU-works/)
 
-> **Download / 다운로드:** Visit [Releases](https://github.com/user92-11/JU-SeqWorkbench/releases) and, once the Alpha pre-release is published, choose its Windows x64 ZIP under **Assets**. If no Release is listed, the download is not published yet.
+> **Released / 배포 완료 (2026-10-12):** [Download JU SeqWorkbench Alpha 0.1.0 — Windows x64](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1) from **Assets**. The actual application ZIP is `JU_SeqWorkbench_Alpha_Windows_x64.zip`; do not select the automatically generated GitHub source archives.
 
 ## English
 
@@ -23,7 +23,7 @@ Sanger/FASTA → AB1 review → alignment → NT/AA editing → site/region anal
 
 ### Download and run
 
-Once published, download the **Windows x64 ZIP** from [**Releases**](https://github.com/user92-11/JU-SeqWorkbench/releases), extract the entire archive to a new folder, and launch `JU SeqWorkbench Alpha.exe`. **No Python installation is required.**
+Download the **Windows x64 ZIP** from [**Alpha 0.1.0 Release**](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1), extract the entire archive to a new folder, and launch `JU SeqWorkbench Alpha.exe`. **No Python installation is required.**
 
 Korean and English user guides are included in the distribution. [Release notes and checksum](./RELEASE_NOTES_v0.1.0-alpha.1.md)
 
@@ -55,7 +55,7 @@ Some functions are planned or limited. Performance depends on dataset and hardwa
 
 ### 다운로드 및 실행
 
-첫 Alpha 공개 이후 [**Releases**](https://github.com/user92-11/JU-SeqWorkbench/releases) 페이지에서 **Windows x64 ZIP**을 다운로드할 수 있습니다. ZIP 전체를 새 폴더에 압축 해제하고 `JU SeqWorkbench Alpha.exe`를 실행하면 됩니다. **Python 설치는 필요하지 않습니다.**
+[**Alpha 0.1.0 GitHub Release**](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1) 페이지의 Assets에서 **Windows x64 ZIP**을 다운로드할 수 있습니다. ZIP 전체를 새 폴더에 압축 해제하고 `JU SeqWorkbench Alpha.exe`를 실행하면 됩니다. **Python 설치는 필요하지 않습니다.**
 
 기본 사용법과 세부 기능은 배포 패키지에 포함된 **한국어/영어 사용자 가이드**를 참고하세요. [Alpha 릴리스 안내 및 SHA-256](./RELEASE_NOTES_v0.1.0-alpha.1.md)
 
