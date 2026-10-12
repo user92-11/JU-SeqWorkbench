@@ -5,7 +5,7 @@ Sanger/FASTA → AB1 review → alignment → NT/AA editing → site/region anal
 
 [한국어](#한국어) · [English](#english) · [Release notes](./RELEASE_NOTES_v0.1.0-alpha.1.md) · [Project website](https://user92-11.github.io/JU-works/)
 
-> **Release status / 배포 상태:** Alpha 0.1.0 Windows x64 pre-release is being prepared. The executable download will appear on the [Releases page](https://github.com/user92-11/JU-SeqWorkbench/releases) **after publication**. No executable has been uploaded here yet.
+> **Download / 다운로드:** Visit [Releases](https://github.com/user92-11/JU-SeqWorkbench/releases) and, once the Alpha pre-release is published, choose its Windows x64 ZIP under **Assets**. If no Release is listed, the download is not published yet.
 
 ## 한국어
 
