@@ -39,6 +39,8 @@ JU SeqWorkbench is a Windows research desktop application for reviewing Sanger/F
 - The unused Qt PDF runtime components were removed; required third-party license notices remain bundled.
 
 ### Feedback
+If you encounter a bug or have suggestions while evaluating this Alpha, please use the feedback links below. When possible, include the JU version, Windows version, steps to reproduce, and error messages. Your feedback helps improve compatibility, stability, and usability. **GitHub Issues are public; please do not share unpublished sequences, personal information, or confidential research data.** Use a synthetic or redacted example if needed.
+
 - [Bug reports / feature requests](https://github.com/user92-11/JU-works/issues)
 - [Questions / ideas](https://github.com/user92-11/JU-works/discussions)
 - [Project page](https://user92-11.github.io/JU-works/)
@@ -79,6 +81,8 @@ JU SeqWorkbench는 Sanger/FASTA 기반 서열을 열고, 정렬된 NT/AA 서열�
 - ZIP에는 `Qt6Pdf.dll` 및 `qpdf.dll`이 포함되지 않으며, 필수 제3자 라이선스 고지 파일은 포함됩니다.
 
 ### 피드백
+Alpha 사용 중 오류나 개선 의견이 있다면 아래 피드백 링크를 이용해 주세요. 가능하면 JU 버전, Windows 버전, 재현 단계와 오류 메시지를 함께 적어주시면 호환성·안정성·사용성 개선에 도움이 됩니다. **GitHub Issues는 공개되므로 미공개 서열·개인정보·기관 내부 자료는 공유하지 마세요.** 필요한 경우 합성 데이터나 비식별화한 예시를 사용해 주세요.
+
 - 버그·기능 요청: [JU-works Issues](https://github.com/user92-11/JU-works/issues)
 - 질문·아이디어: [JU-works Discussions](https://github.com/user92-11/JU-works/discussions)
 - 프로젝트 소개: [JU-works](https://user92-11.github.io/JU-works/)
