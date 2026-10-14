@@ -35,6 +35,8 @@ Some functions are planned or limited. Performance depends on dataset and hardwa
 
 ### Feedback
 
+If you encounter a bug or have suggestions while evaluating this Alpha, please share them through the links below. Include the JU version, Windows version, steps to reproduce, and any error message when relevant. Your feedback helps improve compatibility, stability, and usability. **GitHub Issues are public: do not upload unpublished sequences, personal information, or confidential research data.** Use a synthetic or redacted example instead.
+
 - [Bugs and feature requests — GitHub Issues](https://github.com/user92-11/JU-works/issues)
 - [Questions and ideas — GitHub Discussions](https://github.com/user92-11/JU-works/discussions)
 - [JU-works development website](https://user92-11.github.io/JU-works/)
@@ -66,6 +68,8 @@ Alpha는 연구 작업흐름의 검증과 피드백을 위한 시험판입니다
 일부 기능은 개발 중이며, 대형 데이터에서 처리 시간이 PC 환경에 따라 달라질 수 있습니다. 외부 정렬 도구는 동봉되지 않으며, **Clustal Omega는 이번 Alpha에서 비활성화**되어 있습니다.
 
 ### 문의 및 피드백
+
+Alpha를 사용하다가 오류를 발견하거나 개선 의견이 있다면 아래 링크로 알려주세요. 가능하면 JU 버전, Windows 버전, 오류 재현 단계 및 오류 메시지를 함께 적어주세요. 호환성·안정성·사용성 개선에 도움이 됩니다. **GitHub Issues는 공개되므로 미공개 연구 서열, 개인정보, 기관 내부 자료는 업로드하지 마세요.** 필요한 경우 합성 데이터나 비식별화한 예시를 사용해 주세요.
 
 - [버그 제보·기능 요청 — GitHub Issues](https://github.com/user92-11/JU-works/issues)
 - [질문·의견·아이디어 — GitHub Discussions](https://github.com/user92-11/JU-works/discussions)
