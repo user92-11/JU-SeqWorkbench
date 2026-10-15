@@ -7,6 +7,16 @@ Sanger/FASTA → AB1 review → alignment → NT/AA editing → site/region anal
 
 > **Released / 배포 완료 (2026-10-12):** [Download JU SeqWorkbench Alpha 0.1.0 — Windows x64](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1) from **Assets**. The actual application ZIP is `JU_SeqWorkbench_Alpha_0.1.0_Windows_x64.zip`; do not select the automatically generated GitHub source archives.
 
+### Alpha screenshot — Point results ↔ alignment viewer
+
+![JU SeqWorkbench Alpha 0.1.0 Point mutation results table linked to highlighted sequences and positions in the CPV-2 alignment](https://raw.githubusercontent.com/user92-11/JU-works/main/assets/images/devlog/ju-point-linked-highlight-cpv2-alpha010.png)
+
+*Select a mutation result to inspect the corresponding sequences and alignment position. CPV-2 example from the actual Alpha 0.1.0 interface.*
+
+*변이 결과를 선택하면 해당 서열과 정렬 위치가 Viewer에 연동되어 표시됩니다. 실제 Alpha 0.1.0의 CPV-2 분석 예시입니다.*
+
+[View the associated Point sequence logo and detailed workflow / Point Logo Plot 및 상세 설명](https://user92-11.github.io/JU-works/devlog/05-visualization-and-inspection/)
+
 ## English
 
 **JU SeqWorkbench** is a **Windows desktop research tool** for reviewing Sanger/FASTA data, editing aligned NT/AA sequences, and inspecting position-, region-, and group-level variation patterns.
