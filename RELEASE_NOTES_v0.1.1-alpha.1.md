@@ -3,9 +3,9 @@
 **Release tag:** `v0.1.1-alpha.1`  
 **Channel:** Pre-release / 연구용 시험판  
 **Platform:** Windows x64  
-**Package:** `JU_SeqWorkbench_Alpha_0.1.1-alpha.1_521b090_2026-10-24_RC3_Windows_x64.zip`
+**Package:** `JU_SeqWorkbench_Alpha_0.1.1-alpha.1_Windows_x64.zip`
 
-> Download the application ZIP from the GitHub Release **Assets** after publication. The automatically generated **Source code** ZIP/tar.gz files contain only this public documentation repository, **not** the JU SeqWorkbench application.
+> Download the application ZIP from the [published GitHub Release](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.1-alpha.1) **Assets**. The automatically generated **Source code** ZIP/tar.gz files contain only this public documentation repository, **not** the JU SeqWorkbench application.
 
 ## English
 
@@ -24,17 +24,17 @@ This is a patch to the existing Alpha workflows, **not** the Beta or a feature-c
 ### Install and run
 
 1. Download the Windows x64 ZIP listed above from the Release **Assets**.
-2. Verify its SHA-256 against the checksum below or the corresponding `.sha256` asset.
+2. Verify its SHA-256 against the checksum below or the corresponding `_SHA256.txt` asset.
 3. Extract the entire ZIP into a new folder; do not run the executable inside the archive.
 4. Run the program and consult the included Korean/English user guides and third-party notices.
 5. External MSA requires a **separately installed and configured MAFFT**. MAFFT is not bundled.
 
 ### Package integrity
 
-- **Expected SHA-256:** `ed1a3c8e99ad519637f9d84595d90375140aa9d5e9ba631f606c0e6a5e9fd9c1`
+- **ZIP SHA-256 (GitHub asset digest):** `ed1a3c8e99ad519637f9d84595d90375140aa9d5e9ba631f606c0e6a5e9fd9c1`
 - **Previous version:** [Alpha 0.1.0-alpha.1](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1) remains available.
 
-*The checksum above is the release candidate value supplied by the developer. Verify the final uploaded ZIP independently before publication.*
+*The SHA-256 above matches the digest published by GitHub for the uploaded ZIP. For independent verification, calculate the downloaded ZIP's hash locally. If checking against the text asset, ensure the filename inside that text matches the renamed ZIP.*
 
 ### Evaluation notice
 
@@ -66,10 +66,10 @@ Please report problems through [JU-works Issues](https://github.com/user92-11/JU
 
 ### 패키지 무결성
 
-- **예상 SHA-256:** `ed1a3c8e99ad519637f9d84595d90375140aa9d5e9ba631f606c0e6a5e9fd9c1`
+- **ZIP SHA-256 (GitHub Asset 기준):** `ed1a3c8e99ad519637f9d84595d90375140aa9d5e9ba631f606c0e6a5e9fd9c1`
 - **이전 버전:** [Alpha 0.1.0-alpha.1](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1)은 별도로 보존됩니다.
 
-*위 해시는 개발자가 제공한 RC3 값입니다. 실제 배포 ZIP을 업로드하기 전에 로컬에서 다시 검증해야 합니다.*
+*위 값은 업로드된 ZIP에 대해 GitHub가 제공하는 SHA-256과 일치합니다. 다운로드 후 로컬에서 독립적으로 확인할 수 있습니다. TXT를 이용해 파일명까지 검사할 때는 내부에 기록된 이름이 변경된 ZIP 파일명과 일치하는지 확인하세요.*
 
 ### 시험판 안내
 
