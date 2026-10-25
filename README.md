@@ -5,9 +5,9 @@ Sanger/FASTA → AB1 review → alignment → NT/AA editing → site/region anal
 
 [한국어](#한국어) · [English](#english) · [Alpha 0.1.1 patch notes](./RELEASE_NOTES_v0.1.1-alpha.1.md) · [Alpha 0.1.0 notes](./RELEASE_NOTES_v0.1.0-alpha.1.md) · [Project website](https://user92-11.github.io/JU-works/)
 
-> **Alpha 0.1.1 patch / 패치 배포 준비 중:** [Bilingual 0.1.1 Release Notes / 한·영 변경 사항](./RELEASE_NOTES_v0.1.1-alpha.1.md) are ready. The new download will be linked **only after** the pre-release and final ZIP/checksum assets are published and verified. Until then, **Alpha 0.1.0 remains the current download**. / 0.1.1 릴리스 파일 업로드와 검증이 끝나기 전까지 현재 다운로드는 0.1.0입니다.
+> **Released / 배포 완료 (2026-10-25):** [Download JU SeqWorkbench Alpha 0.1.1 — Windows x64](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.1-alpha.1) from **Assets**. This is an Alpha patch build (research evaluation only). The Windows ZIP and matching checksum TXT are provided in the release. [0.1.1 changes / 변경 사항](./RELEASE_NOTES_v0.1.1-alpha.1.md). Do not download GitHub's automatically generated source archives.
 
-> **Released / 배포 완료 (2026-10-12):** [Download JU SeqWorkbench Alpha 0.1.0 — Windows x64](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1) from **Assets**. The actual application ZIP is `JU_SeqWorkbench_Alpha_0.1.0_Windows_x64.zip`; do not select the automatically generated GitHub source archives.
+> **Previous version / 이전 버전:** [Alpha 0.1.0-alpha.1 (2026-10-12)](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1) and its original assets remain available.
 
 ### Alpha screenshot — Point results ↔ alignment viewer
 
@@ -35,9 +35,9 @@ Sanger/FASTA → AB1 review → alignment → NT/AA editing → site/region anal
 
 ### Download and run
 
-Download the **Windows x64 ZIP** from [**Alpha 0.1.0 Release**](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1), extract the entire archive to a new folder, and launch `JU SeqWorkbench Alpha.exe`. **No Python installation is required.**
+Download the **Windows x64 ZIP** from [**Alpha 0.1.1 Release**](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.1-alpha.1), extract the entire archive to a new folder, and launch `JU SeqWorkbench Alpha.exe`. **No Python installation is required.**
 
-Korean and English user guides are included in the distribution. [Release notes and checksum](./RELEASE_NOTES_v0.1.0-alpha.1.md)
+Korean and English user guides are included in the distribution. [0.1.1 Release notes and SHA-256](./RELEASE_NOTES_v0.1.1-alpha.1.md) · [Previous Alpha 0.1.0](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1)
 
 ### Alpha notice
 
@@ -69,9 +69,9 @@ If you encounter a bug or have suggestions while evaluating this Alpha, please s
 
 ### 다운로드 및 실행
 
-[**Alpha 0.1.0 GitHub Release**](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1) 페이지의 Assets에서 **Windows x64 ZIP**을 다운로드할 수 있습니다. ZIP 전체를 새 폴더에 압축 해제하고 `JU SeqWorkbench Alpha.exe`를 실행하면 됩니다. **Python 설치는 필요하지 않습니다.**
+[**Alpha 0.1.1 GitHub Release**](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.1-alpha.1) 페이지의 Assets에서 **Windows x64 ZIP**을 다운로드할 수 있습니다. ZIP 전체를 새 폴더에 압축 해제하고 `JU SeqWorkbench Alpha.exe`를 실행하면 됩니다. **Python 설치는 필요하지 않습니다.**
 
-기본 사용법과 세부 기능은 배포 패키지에 포함된 **한국어/영어 사용자 가이드**를 참고하세요. [Alpha 릴리스 안내 및 SHA-256](./RELEASE_NOTES_v0.1.0-alpha.1.md)
+기본 사용법과 세부 기능은 배포 패키지에 포함된 **한국어/영어 사용자 가이드**를 참고하세요. [Alpha 0.1.1 릴리스 안내 및 SHA-256](./RELEASE_NOTES_v0.1.1-alpha.1.md) · [이전 Alpha 0.1.0 다운로드](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1)
 
 ### 시험판 안내
 
