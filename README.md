@@ -3,7 +3,9 @@
 **Sequence analysis and visualization for research**  
 Sanger/FASTA → AB1 review → alignment → NT/AA editing → site/region analysis → export
 
-[한국어](#한국어) · [English](#english) · [Release notes](./RELEASE_NOTES_v0.1.0-alpha.1.md) · [Project website](https://user92-11.github.io/JU-works/)
+[한국어](#한국어) · [English](#english) · [Alpha 0.1.1 patch notes](./RELEASE_NOTES_v0.1.1-alpha.1.md) · [Alpha 0.1.0 notes](./RELEASE_NOTES_v0.1.0-alpha.1.md) · [Project website](https://user92-11.github.io/JU-works/)
+
+> **Alpha 0.1.1 patch / 패치 배포 준비 중:** [Bilingual 0.1.1 Release Notes / 한·영 변경 사항](./RELEASE_NOTES_v0.1.1-alpha.1.md) are ready. The new download will be linked **only after** the pre-release and final ZIP/checksum assets are published and verified. Until then, **Alpha 0.1.0 remains the current download**. / 0.1.1 릴리스 파일 업로드와 검증이 끝나기 전까지 현재 다운로드는 0.1.0입니다.
 
 > **Released / 배포 완료 (2026-10-12):** [Download JU SeqWorkbench Alpha 0.1.0 — Windows x64](https://github.com/user92-11/JU-SeqWorkbench/releases/tag/v0.1.0-alpha.1) from **Assets**. The actual application ZIP is `JU_SeqWorkbench_Alpha_0.1.0_Windows_x64.zip`; do not select the automatically generated GitHub source archives.
 
