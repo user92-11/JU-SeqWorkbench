@@ -13,13 +13,15 @@
 
 - Improved FASTA **Open/Import** stability and support for BioEdit-style `~` gap characters.
 - Fixed residual highlighting after changing or clearing an ID selection.
-- Improved **DNA/RNA/AA View** transitions and preservation of the **AA Working** state.
+- Improved **NT/RNA/AA View** transitions and preservation of the **AA Working** state.
 - Improved Point/Similarity analysis linkage with the viewer and result image-saving behavior.
 - Improved AA Marker behavior and shared CSV export workflows.
 - Refined Korean/English UI messages.
 - Fixed Qt and bundled-module loading issues associated with long Windows paths.
 
 This is a patch to the existing Alpha workflows, **not** the Beta or a feature-complete release.
+
+**Terminology note (Alpha 0.1.1):** In this release, the Viewer uses `NT` for the nucleotide/DNA display mode. A future update will clarify this Viewer label as `DNA` to distinguish it from the separate `RNA` display mode. `NT` remains the appropriate term for nucleotide-level analysis features.
 
 ### Install and run
 
@@ -48,13 +50,15 @@ Please report problems through [JU-works Issues](https://github.com/user92-11/JU
 
 - FASTA **Open/Import** 안정화 및 BioEdit 방식의 `~` gap 문자 지원.
 - ID 선택 변경·해제 후 남는 하이라이트 잔상 수정.
-- **DNA/RNA/AA 보기 모드** 전환 및 **AA Working** 상태 보존 개선.
+- **NT/RNA/AA 보기 모드** 전환 및 **AA Working** 상태 보존 개선.
 - Point/Similarity 분석 결과와 Viewer의 연동 및 결과 이미지 저장 동작 개선.
 - AA Marker 동작과 공통 CSV 저장 흐름 개선.
 - 한국어/영어 UI 안내 메시지 보완.
 - Windows 긴 경로에서 발생하는 Qt 및 번들 모듈 로딩 문제 수정.
 
 기존 Alpha 기능을 유지하면서 안정성을 개선한 패치이며, **Beta 또는 기능 완성판은 아닙니다.**
+
+**용어 안내(Alpha 0.1.1):** 이 버전의 Viewer에서는 뉴클레오타이드/DNA 표시 모드에 `NT` 명칭을 사용합니다. 별도의 `RNA` 표시 모드와 명확하게 구분할 수 있도록 향후 업데이트에서 Viewer 명칭을 `DNA`로 정비할 예정입니다. 뉴클레오타이드 단위 분석 기능에서는 기존 `NT` 용어를 유지합니다.
 
 ### 설치 및 실행
 
