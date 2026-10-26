@@ -13,7 +13,7 @@
 
 - Improved FASTA **Open/Import** stability and support for BioEdit-style `~` gap characters.
 - Fixed residual highlighting after changing or clearing an ID selection.
-- Improved **View NT/RNA/AA** display transitions and preservation of the **AA Working** state.
+- Improved **DNA/RNA/AA View** transitions and preservation of the **AA Working** state.
 - Improved Point/Similarity analysis linkage with the viewer and result image-saving behavior.
 - Improved AA Marker behavior and shared CSV export workflows.
 - Refined Korean/English UI messages.
@@ -48,7 +48,7 @@ Please report problems through [JU-works Issues](https://github.com/user92-11/JU
 
 - FASTA **Open/Import** 안정화 및 BioEdit 방식의 `~` gap 문자 지원.
 - ID 선택 변경·해제 후 남는 하이라이트 잔상 수정.
-- **View NT/RNA/AA** 표시 전환 및 **AA Working** 상태 보존 개선.
+- **DNA/RNA/AA 보기 모드** 전환 및 **AA Working** 상태 보존 개선.
 - Point/Similarity 분석 결과와 Viewer의 연동 및 결과 이미지 저장 동작 개선.
 - AA Marker 동작과 공통 CSV 저장 흐름 개선.
 - 한국어/영어 UI 안내 메시지 보완.
